@@ -364,28 +364,6 @@ This will eliminate the need for users to manually search and add grocery items.
 
 ---
 
-# 📸 Demo Screenshots
-
-Add screenshots here after recording.
-
-```
-assets/
-
-home.png
-
-loading.png
-
-review.png
-```
-
----
-
-# 🎥 Demo Video
-
-(Add your YouTube or Drive demo link here.)
-
----
-
 # 👨‍💻 Author
 
 **Rishwanth Sai**
@@ -394,14 +372,9 @@ AI & Data Science Undergraduate
 
 Amrita Vishwa Vidyapeetham
 
-GitHub:
-https://github.com/Rishwanth1537
+LinkedIN:
+https://www.linkedin.com/in/rishwanthsai/
 
 Portfolio:
 https://rishwanth1537.github.io/portfolio/
 
----
-
-# 📄 License
-
-This project is developed for educational purposes and hackathon demonstration.
