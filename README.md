@@ -151,65 +151,6 @@ Select / Deselect Ingredients
 Proceed to Swiggy (Future MCP Integration)
 ```
 
----
-
-# 🖥️ Frontend
-
-Built with:
-
-- React
-- Vite
-- Tailwind CSS
-- Lucide Icons
-- Lottie Animation
-
-### Pages
-
-### Home
-
-- Hero Section
-- URL Input
-- Serving Selector
-- Generate Button
-
-### Loading
-
-- Cooking Animation
-- Pipeline Progress
-- Backend Processing Status
-
-### Review
-
-- Recipe Information
-- Ingredient Cards
-- Quantity Editing
-- Checkbox Selection
-- Shopping Summary
-
----
-
-# ⚙️ Backend
-
-Built using
-
-- FastAPI
-- yt-dlp
-- FFmpeg
-- Sarvam AI
-- Google Gemini
-
-Pipeline:
-
-1. Download YouTube Audio
-2. Convert Audio
-3. Speech Transcription
-4. Ingredient Extraction
-5. Ingredient Normalization
-6. Quantity Generation
-7. JSON Response
-
----
-
 # 📦 JSON Response Format
 
 ```json
